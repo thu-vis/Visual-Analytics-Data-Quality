@@ -8,7 +8,6 @@
 * 大数据可用性的研究进展 (软件学报 2016) [pdf]( http://www.jos.org.cn/josen/article/pdf/5038 )
 * To err is human: building a safer health system (NAP 2000) [pdf]( https://omsorgsforskning.brage.unit.no/omsorgsforskning-xmlui/bitstream/handle/11250/2445271/Kohn.pdf?sequence=1 )   &spades;
 * Data warehousing special report: Data quality and the bottom line (ADT 2002) [pdf]( http://www.estgv.ipv.pt/PaginasPessoais/jloureiro/ESI_AID2007_2008/fichas/TP06_anexo1.pdf )
-* Data management: Still a major obstacle to AI success (online 2019) [online]( https://www.datanami.com/2019/05/22/data-management-still-a-major-obstacle-to-ai-success/ )
 * Towards building a high-quality workforce with mechanical turk (NIPS 2010) [pdf]( http://www.cs.kent.edu/~javed/class-P2P12F/papers-2012/PAPER2012-Mturk-highqualityworkforce-wais.pdf )
 * Enhancing the reliability of out-of-distribution image detection in neural networks (ICLR 2018) [pdf]( https://arxiv.org/pdf/1706.02690.pdf?ref=https://githubhelp.com )   &spades;
 * Multiplicative normalizing flows for variational bayesian neural networks (ICML 2017) [pdf]( http://proceedings.mlr.press/v70/louizos17a/louizos17a.pdf )   &spades;
