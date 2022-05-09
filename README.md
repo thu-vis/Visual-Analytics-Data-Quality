@@ -3,6 +3,9 @@
 
 *  Max-margin majority voting for learning from crowds (NIPS 2015) [pdf]( https://proceedings.neurips.cc/paper/2015/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf )   
 *  Improving learning-from-crowds through expert validation (IJCAI 2017) [pdf]( http://ml.cs.tsinghua.edu.cn/~jun/pub/expert-validation-ijcai2017.pdf )   
+*  ImageNet: A large-scale hierarchical image database (CVPR 2009) [pdf]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206848 )   &spades;
+*  Limits on learning machine accuracy imposed by data quality (NIPS 1995) [pdf]()
+
 *  ImageNet Large Scale Visual Recognition Challenge (IJCV 2015) [pdf]( https://arxiv.org/pdf/1409.0575?ref=https://githubhelp.com )   &spades;
 *  Limits on learning machine accuracy imposed by data quality (NIPS 1995) [pdf]( https://proceedings.neurips.cc/paper/1994/file/1e056d2b0ebd5c878c550da6ac5d3724-Paper.pdf )   
 *  大数据可用性的研究进展 (软件学报 2016) [pdf]( http://www.jos.org.cn/josen/article/pdf/5038 )   
